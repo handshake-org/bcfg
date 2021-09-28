@@ -1,16 +1,16 @@
 {
-  "name": "bcfg",
-  "version": "0.1.6",
-  "description": "Config parser for bcoin",
+  "name": "@handshake-org/bcfg",
+  "version": "0.1.7",
+  "description": "Config parser for Handshake",
   "keywords": [
     "conf",
     "config"
   ],
   "license": "MIT",
-  "repository": "git://github.com/bcoin-org/bcfg.git",
-  "homepage": "https://github.com/bcoin-org/bcfg",
+  "repository": "git://github.com/handshake-org/bcfg.git",
+  "homepage": "https://github.com/handshake-org/bcfg",
   "bugs": {
-    "url": "https://github.com/bcoin-org/bcfg/issues"
+    "url": "https://github.com/handshake-org/bcfg/issues"
   },
   "author": "Christopher Jeffrey <chjjeffrey@gmail.com>",
   "main": "./lib/bcfg.js",
